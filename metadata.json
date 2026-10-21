@@ -1,0 +1,6 @@
+{
+  "name": "Spendly",
+  "description": "Spendly is a modern, intuitive expense tracker and budgeting app with spending analytics, category breakdowns, and real-time budget tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

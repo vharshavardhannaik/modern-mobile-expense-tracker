@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (21 to 87) -->
+    <!-- Card / Wallet base container -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,38 C32,33.58 35.58,30 40,30 L68,30 C72.42,30 76,33.58 76,38 L76,70 C76,74.42 72.42,78 68,78 L40,78 C35.58,78 32,74.42 32,70 Z" />
+    <!-- Gradient / accent cut on card -->
+    <path
+        android:fillColor="#3525CD"
+        android:pathData="M36,44 L72,44 L72,50 L36,50 Z" />
+    <!-- Ascending Trend Icon / Arrow inside -->
+    <path
+        android:fillColor="#006C49"
+        android:pathData="M42,66 L49,59 L54,64 L64,54 L64,59 L66,59 L66,51 L58,51 L58,53 L62.5,53 L54,61.5 L49,56.5 L40.5,65 Z" />
+    <!-- Floating Sparkle / Mint Dot in top-right -->
+    <path
+        android:fillColor="#6CF8BB"
+        android:pathData="M70,28 C67.79,28 66,29.79 66,32 C66,34.21 67.79,36 70,36 C72.21,36 74,34.21 74,32 C74,29.79 72.21,28 70,28 Z" />
+</vector>
